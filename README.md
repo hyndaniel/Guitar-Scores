@@ -9,7 +9,7 @@
 现支持监控的进程如下：
 
 | 服务 | 进程 |  文件名 |
-| :--: | :--: | :--: |
+| :--: | :-- | :-- |
 | Hadoop | NameNode, SecondaryNameNode, DataNode, ResourceManager, NodeManager | check_hadoop_process |
 | HBase | HMaster, HRegionServer | check_hbase_process |
 | Hive | HiveServer2, MetaStore | check_hive_process |
